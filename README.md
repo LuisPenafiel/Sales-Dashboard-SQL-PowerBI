@@ -34,7 +34,6 @@ Sales-Dashboard-SQL-PowerBI/
 │   ├── screenshot1.png
 │   ├── screenshot2.png
 ├── README.md
-
 - **.devcontainer/**: Contains configuration files for a reproducible environment in GitHub Codespaces.
 - **data/**: Stores the SQLite database (`ventas.db`) and exported CSV files (`ventas.csv`, `clientes.csv`).
 - **scripts/**: Includes SQL (`database.sql`) and Python (`generar_datos.py`) scripts for data generation.
