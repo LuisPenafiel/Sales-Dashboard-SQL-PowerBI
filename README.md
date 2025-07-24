@@ -18,7 +18,6 @@ This project utilizes a **devcontainer** to ensure a reproducible environment in
 - **Environment**: Developed in GitHub Codespaces.
 
 ### Project Structure
-
 Sales-Dashboard-SQL-PowerBI/
 ├── .devcontainer/
 │   ├── devcontainer.json
